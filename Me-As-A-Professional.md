@@ -1,0 +1,50 @@
+# Me as a professional
+## Development
+My journey in developing professional competence has been characterized by a continuous commitment to integrating into the school systems of my internship schools, collaborating effectively with colleagues and mentors, and building relationships with my students. These relationships, while primarily easy-going and friendly, maintained the necessary professional distance that a teacher must uphold. From the outset of my studies, I approached all my courses and internship responsibilities with seriousness and dedication, always ensuring thorough preparation.
+
+A crucial component of my development was the Professional Development (PD) courses. Over four modules, I consistently worked on enhancing my methodological, pedagogical, and subject-specific competences. This development was demonstrated through the creation of learning questions and plans, as well as detailed learning reports. Engaging intensively with these teaching competencies gradually built my confidence, leading to a profound understanding of the learning outcomes and the multifaceted role of a competent teacher. The PD courses offered numerous intervision opportunities, where I actively participated, learning significantly from my peers. These sessions allowed us to discuss our internship experiences, share challenges, and support each other’s growth as aspiring educators.
+
+Individual meetings with my teachers provided another vital pillar of my development. These sessions offered a platform to discuss personal struggles, difficulties, and overall learning progress. I am deeply grateful for these PD courses, which played a pivotal role in shaping my professional journey.
+
+My internship schools, UniC Utrecht and Vathorst College Amersfoort, also provided intervision sessions for interns. These sessions imparted valuable insights into teaching practices and allowed us to discuss our experiences. Noteworthy learning outcomes included conducting "bad news" meetings with students, role-playing scenarios to practice real-life situations, giving constructive feedback, and establishing an escalation ladder. These initiatives, aimed at our daily improvement, were immensely beneficial, although such opportunities were lacking in Curacao due to resource constraints.
+
+Research courses also presented significant challenges, bolstering my confidence as a teacher who continually evaluates and refines their teaching strategies. Creating research questions, collecting data from literature and real-life sources, and finding solutions to educational challenges culminated in end products that were valuable for my school, university, and potentially other field researchers. One significant research topic I delved into was vocabulary acquisition in beginner language classes. Applying the knowledge gained from this research in practice was invaluable.
+
+Collaboration played a significant role in my integration into the internship schools. Respectful communication was a cornerstone of my approach. I actively participated in various departmental meetings, whether subject-specific, grade-specific, or for the underbouw (lower grades). While most interactions with colleagues were respectful, there were instances of interpersonal differences. These experiences, though challenging, provided valuable learning opportunities. I acknowledge that I could have been more transparent, efficient, and professional in my communication at times. Nevertheless, my focus remained on delivering quality lessons, fostering good relationships, and providing the necessary professional support to my students.
+
+In conclusion, my journey to becoming a professionally competent teacher has been marked by ups and downs but underscored by a steadfast commitment to excellence and continuous development. Through the creation of learning questions, engagement in intervision opportunities, meetings with teachers and colleagues, departmental meetings, and conducting professional research with practical educational outcomes, I have grown immensely. My primary goal has always been to offer my students the best possible learning experience, and this remains the area where I have excelled the most.
+
+## STARR-Reflection: Research on vocabulary acquisition in beginner MFL classes
+**Situation**
+
+The situation involved conducting research to enhance vocabulary acquisition in a beginner language learning class. I was the primary teacher at Vathorst College in Amersfoort, and my research was focused on a beginner level French class. This research aimed to ultimately benefit these students by improving their vocabulary learning strategies.
+ 
+**Task**
+
+As a professional educator, it is crucial to interpret and use data accurately, conduct methodologically sound research, and contribute to advancing the field of education (Wilson, 2017). My task was to investigate vocabulary acquisition and explore methods to enhance it for students. I was expected to conduct a thorough literature review, gather practical data in the classroom, and provide actionable recommendations for my internship school. The goal was to identify effective strategies, methods, didactic approaches, or tools to facilitate vocabulary acquisition in a beginner language class.
+
+Personally, I aimed to conduct the research professionally and provide practical insights that would benefit my students' learning progress. I expected myself to perform a comprehensive literature review and data collection. Additionally, I wanted to involve the students in the research process by explaining its purpose and potential benefits. My focus was on examining the impact of digital tools on MFL education, particularly vocabulary acquisition, using Quizlet as a case study.
+ 
+**Action**
+
+To achieve my objectives, I conducted extensive research encompassing methodology, pedagogy, and subject-specific components. I implemented Quizlet in the classroom over several weeks (as evidenced by the video below) and surveyed students to assess its effectiveness and benefits. Beyond classroom data, I interviewed Jacob de Ruiter, an experienced teacher, and a European Commission interpreter to gain diverse professional perspectives. This comprehensive data collection and analysis culminated in a final research presentation for grading.
+
+<a href="https://youtu.be/hY7hzv03Mzg" target="_blank">https://youtu.be/hY7hzv03Mzg</a> 
+ 
+**Result**
+
+As the screenshot below indicates, the research resulted in a satisfactory grade and positive evaluation. While some areas required improvement, such as updating research findings, ensuring subject-specific relevance, and elaborating on certain aspects, the overall feedback was favorable. This validation reinforced my dedication to the project and provided practical insights that enhanced my knowledge and skills as a language teacher. The research highlighted the importance of engaging students meaningfully, providing abundant language input and output, and employing key strategies like repetition, formative assessment, and differentiation.
+
+**Picture 25: Screenshot of feedback received from my assessor on my research**
+
+![Research](https://github.com/user-attachments/assets/e42d122b-93f7-463e-ace5-8eeff0103cce)
+
+ 
+**Reflection**
+
+I am pleased with my performance and the research outcomes. The project was conducted professionally, with considerable effort invested in literature review and data collection. I critically examined my options, ensuring logical and coherent steps that led to meaningful conclusions. Through this research, I gained a deeper understanding of vocabulary development and the critical factors a language teacher should consider in a beginner class. While some subquestions could have been more specific, and some sources were outdated, the overall success of the research demonstrated my capability to contribute to educational development. The experience also highlighted areas for improvement, such as ensuring accurate translations, making more subject-specific conclusions, and justifying the use of digital tools more robustly. Despite these areas for growth, the research confirmed my ability to engage in practice-based research and apply new knowledge effectively. This aligns with the requirements within the professional competency for teachers to advance their field through informed, research-based practices.
+ 
+### Source
+Wilson, E. (Ed.) (2017). School-based Research. A guide for education students (3rd ed.). London: SAGE.
+
+
