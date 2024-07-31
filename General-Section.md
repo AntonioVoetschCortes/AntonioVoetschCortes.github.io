@@ -50,7 +50,24 @@ Despite the setbacks, my journey to become a French and English through 4 years 
 ### Reflection Lesson Observation PD4B: 
 [Reflection Lesson Observation PD4B (1).pdf](https://github.com/user-attachments/files/16439967/Reflection.Lesson.Observation.PD4B.1.pdf)
 
+## Looking ahead
+As my retrospective indicates, there are several areas where I need further development. Below, I outline these areas and my plans to improve to ultimately become the best version of myself as a teacher.   
 
+A persistent challenge since the start of my studies and internships has been striking the right balance between being approachable and maintaining authority. Teachers have diverse personalities—some are naturally strict, while others, like myself, are more easy-going. However, I have sometimes allowed disrespectful behavior to pass unchecked, which is unfair to both myself and the students committed to learning. Moving forward, I need to identify behaviors I consider disrespectful and establish a mental escalation plan to address such situations appropriately. I believe I can maintain a relaxed atmosphere while ensuring effective learning and thereby balancing friendliness with the necessary authority.  
+
+Secondly, I aim to gain more confidence in planning lessons according to my teaching vision. I aspire to create communicative, engaging lessons, minimizing reliance on textbooks and incorporating differentiation, formative assessment, and personalized feedback. My goal is to adopt a coaching role, creating personal connections while keeping students focused on learning objectives and maintaining effective classroom management.   
+
+I also want to confidently defend my teaching vision and critique existing practices at my internship schools if I find them inefficient. I plan to take a proactive approach, contributing meaningfully to my subject department, whether in English or French. This includes questioning existing practices, staying updated on trends in language teaching and secondary education, and collaborating with colleagues to facilitate the best learning outcomes for students.  
+
+ More importantly, improving my personal organization is a priority. I plan to maintain a better schedule, update my agenda regularly, and prepare lessons well in advance, anticipating potential issues. Next year, I plan to take a gap year to address my mental well-being and potential ADHD diagnosis with professional support. I hope to develop strategies to better structure my personal and professional life. Once ready, I aim to return to teaching, fully equipped to meet its challenges and realize my potential as an educator.  
+
+ What will hopefully follow after this has been established is my ability to communicate well with others. Improving communication with colleagues and students is crucial. I aim to inform colleagues well in advance of important information to facilitate collaborative learning. Transparent communication with students is also essential, ensuring they benefit from my classes and understand their assignments. Overall, I want to present a more professional demeanor in my teaching.  
+
+ Furthermore, I want to take on more responsibility within the school context. Although I have participated in meetings and contributed where possible, I seek a more active role as a full-time teacher. I also want to experience teacher-parent meetings and serve as a class mentor. Additionally, I am eager to organize school trips, which I believe are excellent opportunities for students to apply their language skills and learn experientially.  
+
+Lastly, another important area for my development as a language teacher is enhancing my proficiency in both French and English. Although I can teach at a decent level, my ambition is to achieve near-native fluency. To this end, I plan to live abroad in French-speaking and English-speaking countries to immerse myself in the languages and cultures.   
+
+In summary, being a teacher involves lifelong learning, and I am committed to this journey. The key is to start by improving my organization, and from there, I believe the rest will follow.  
 
 
 
