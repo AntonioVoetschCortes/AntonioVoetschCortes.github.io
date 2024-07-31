@@ -82,6 +82,47 @@ Being pluricultural myself, having grown up in Germany to a Spanish mother and a
 ### Evidence for the lesson (video)
 <a href="https://youtu.be/yhIkiQ8aWm0" target="_blank">https://youtu.be/yhIkiQ8aWm0</a> 
 
+## STARR-Reflection: Explaining the subject-matter (how to form adjectives) to students 
+
+**Situation**
+
+The situation was that I needed to teach my second-year French class at Vathorst College about the various forms of adjectives in the French language. 
+
+ **Task**
+ 
+ My task was to explain the different forms that adjectives can take in French and ensure that the students could accurately form these adjectives on their own by the end of the lesson. My role was to present the material clearly and comprehensibly, making sure that each student could apply these language rules in their understanding of French. 
+ I wanted to create an engaging grammar lesson. I expected myself to make the material as understandable as possible, considering common misconceptions and potential difficulties in understanding. Additionally, it was important for me to check whether the students had grasped the explanations. 
+ 
+ **Action**
+ 
+ To ensure that students could meet the learning objectives, I designed a structured lesson, using the digital learning tool “LessonUp”, that built their knowledge step by step. I incorporated a French trailer video to make the lesson more exciting and to teach grammar inductively. According to research by Shirav and Nagai (2022), both inductive and deductive grammar teaching can be beneficial. Therefore, I included a video for inductive learning and folders that explained the grammar rules deductively. We collectively discussed the exercises to prevent misconceptions. All students were able to finish the lesson on time and gained a good understanding of the different adjective forms. 
+ 
+**Result**
+
+ The result was a productive grammar lesson that successfully introduced students to different adjective forms. Feedback from my colleague (see feedback, picture 13), who observed the lesson, indicated that I could explain the subject matter clearly and that I made significant efforts to ensure that all students understood the material. 
+
+**Picture 13: Feedback received from my colleague on the lesson**
+
+![Screenshot (404)](https://github.com/user-attachments/assets/2a63e9fc-b41c-4c67-ba1c-73b48b582165)
+
+**Reflection**
+
+I am generally very satisfied with my knowledge of both French and English. This lesson demonstrates my ability to deliver interactive and comprehensible instructions and activities that effectively support all students in acquiring the French language. It also serves as evidence of my high level of subject mastery. For future lessons, I would continue to integrate a mix of inductive and deductive teaching methods and ensure that I address common misconceptions to enhance student understanding further. 
+
+### Sources
+- Shirav, A., & Nagai, E. (2022). The Effects of Deductive and Inductive Grammar Instructions in Communicative Teaching. English language teaching, 15(6), 102-123. Retrieved from <a href="https://eric.ed.gov/?id=EJ1345730" target="_blank">https://eric.ed.gov/?id=EJ1345730</a>
+- Jadama, Langsajo Mustafa (2014). Impact of Subject Matter Knowledge of a Teacher in Teaching and Learning Process. University of the Gambia. Middle Eastern & African Journal of Educational Research. Retrieved from <a href="https://ewritingtutors.wordpress.com/wp-content/uploads/2016/05/subject-matter-knowledge2.pdf  " target="_blank">https://ewritingtutors.wordpress.com/wp-content/uploads/2016/05/subject-matter-knowledge2.pdf  </a>
+
+### Evidence for the lesson ("Lesson Up" Lesson)
+**Pictures 14-18: Screenshots from "Lesson Up" Lesson** 
+![Screenshot (407)](https://github.com/user-attachments/assets/1d132488-7f5b-4528-b529-f6bd99614339)
+![Screenshot (408)](https://github.com/user-attachments/assets/1ff2d524-20c2-4b68-8663-62b221e4f101)
+![Screenshot (409)](https://github.com/user-attachments/assets/d5f3e9ac-1db5-41b2-a725-8e490b232066)
+![Screenshot (410)](https://github.com/user-attachments/assets/da9bc438-d2d3-41b0-9d52-ede6525f0fcd)
+![Screenshot (411)](https://github.com/user-attachments/assets/43c246e3-780c-4dcc-83f3-867077789f81)
+
+
+
 
 
 
