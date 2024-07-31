@@ -13,5 +13,9 @@
 ## DO NOT FORGET PLEASE TO INSERT
 Copy of study progress report (including Propadeuse and Main Phase)  
 
+[Statement of authenticity](pdfs/Statement-of-authenticity-2023-2024.pdf)
+
+<a href="pdfs/Statement-of-authenticity-2023-2024.pdf" target="_blank">Statement of authenticity</a>
+
   
 
