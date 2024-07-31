@@ -13,7 +13,10 @@
 ## DO NOT FORGET PLEASE TO INSERT
 - Copy of study progress report (including Propadeuse and Main Phase)  
 
-- Download statement of authenticity via the following link:\
+## Statement of authenticity:
 [Statement-of-authenticity-2023-2024.pdf](https://github.com/user-attachments/files/16439406/Statement-of-authenticity-2023-2024.pdf)
+
+## CV:
+[CV Antonio Vötsch Cortés.pdf](https://github.com/user-attachments/files/16439497/CV.Antonio.Votsch.Cortes.pdf)
 
 
