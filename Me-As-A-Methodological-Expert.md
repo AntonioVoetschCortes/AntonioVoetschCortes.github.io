@@ -35,6 +35,70 @@ Reflecting on the experience, I was pleased with the positive feedback from both
 ![Screenshot (415)](https://github.com/user-attachments/assets/033bab1d-b8e6-478e-9895-91baed4c248f)
 ![Screenshot (416)](https://github.com/user-attachments/assets/cda1b13d-f5af-4389-8831-3cf7e6c6df11)
 
+## ABCD Reflection: Implenting differentiation in my lessons
+**A: What happened? What caused it?**
+
+ I aimed to implement differentiation in my French lessons. Differentiation has the potential to stimulate engagement amongst learners and subsequently has also proven to enhance students’ academic performances (Fairbain& Jones-Vo, 2010).  Differentiation can be applied in educational settings through diverse instructional approaches, student grouping, or offering options (Tomlison, 2005). When exploring this didactic strategy in my lessons at Vathorst College, I underwent an important learning progress concerning how I could design my activities so that they are both sufficiently differentiated and motivating for my students. 
  
-   
-   
+**B: What was important about it?**
+
+I intended to implement differentiation by dividing activities into three levels: beginner, intermediate, and advanced. I assumed that striving for the most challenging level would be enough motivation. However, after reviewing my students’ work, I found that only a few had attempted the most difficult level. I sought feedback from Meike Berben, an educational consultant at CPS, who provided the following advice:
+
+**Picture 20: Screenshot of feedback received from didactic expert, consultant and trainer at CPS, Meike Berben:**
+
+![Hallo](https://github.com/user-attachments/assets/cfa268b4-3ced-479a-a6f1-8faa4b6d495d)
+
+**C: What conclusions can you draw from the event?**
+
+The event taught me that to better motivate students, tasks could be divided into simple and more challenging exercises, each assigned a value (points or stars) based on difficulty. Students must accumulate a certain number of points or stars to complete the lesson.
+
+**D: What are you going to do as a result?**
+
+Two weeks later, I implemented Meike Berben's advice in a lesson, as highlighted in the following lesson plan (differentiation is highlighted in green). 
+
+**Lesson Plan with differentiation (highlighted in green)**
+[Lesson Plan Differentiation.pdf](https://github.com/user-attachments/files/16442765/Lesson.Plan.Differentiation.pdf)
+
+I observed that most students achieved the required 5 points in the main activity, with many earning all available points. This confirmed that Meike's advice was effective. This lesson example demonstrates how I adjusted my lesson designs to incorporate more differentiation. Feedback from my mentor, Nadia, further highlights my progress in developing this teaching approach in practice (see feedback, picture 21)
+
+**Picture 21: Screenshot of feedback from my mentor, Nadia Pineau on implementation of differentiation:**
+
+![Screenshot (241)](https://github.com/user-attachments/assets/4f970f93-484b-4b95-b362-b69dcf129b26)
+
+## Sources
+- Fairbairn, S., & Jones-Vo, S. (2010). Differentiating instruction and assessment for English language
+learners: a guide for K/12 teachers. Philadelphia, Caslon Pub.
+- Tomlinson, S. (2005). Education in a post-welfare society. McGraw-Hill Education (UK). 
+
+## Starr-Reflection: Analyzing and Evaluating my lessons
+**Situation**
+During my internship at Vathorst, I conducted a self-analysis and realized that I had not been fully engaging in the entire lesson design cycle. According to the learning outcomes, developing lesson plans involves several steps: analyzing, designing, implementing, evaluating, and adjusting. While I had been consistently performing the first three steps, I noticed that I never systematically evaluated my lessons or made adjustments based on those evaluations. This realization prompted me to reflect on my teaching practices and seek ways to improve my lesson planning and execution.
+ 
+**Task**
+In the classes where I was the main teacher, I was responsible for planning and delivering lessons that aligned with the learning objectives and curriculum of the school. My primary task was to ensure that these lessons were well-structured, engaging, and effective in promoting student learning.
+On a personal level, I aimed to develop my didactic competence, particularly in the areas of lesson planning and execution. I wanted to complete the entire design cycle, which included evaluating my lessons and adjusting my methodologies accordingly. My goal was to identify effective and ineffective lesson activities to continuously improve my lesson designs, thereby enhancing the learning experiences of my students. Ultimately, I sought to develop a personal strategy that would help me systematically evaluate and adjust my lessons.
+ 
+**Action**
+To achieve my goal, I undertook several actions. First, I conducted research to understand the key elements of evaluating educational activities. Cambridge (2022) provided a comprehensive overview of the most important aspects of systematically planning, executing, and evaluating lessons. I learned the significance of thorough lesson preparation, setting clear expectations, and obtaining regular feedback from students.
+ 
+I began incorporating short reflections after each lesson, noting what worked well and what needed improvement. Over time, I developed a checklist that included the most critical elements for effective lesson evaluation, based on the theoretical framework I had studied. This checklist became a practical tool that I used consistently to review my lessons.
+ 
+Additionally, I presented the checklist to a colleague for feedback. The colleague offered positive comments and suggested adding a row for "having control over the learning environment" and rephrasing certain elements for clarity (see feedback). I made these adjustments, further refining the checklist to better serve its purpose.
+
+**Picture 22: Screenshot of feedback from my colleague, Nicolas Joel, on lesson analysis tool:**
+
+ ![Bild12](https://github.com/user-attachments/assets/131d3bd7-1d52-4d84-b419-e0205a79686f)
+
+**Results**
+The creation and use of the checklist yielded significant results. I received positive feedback from my colleague, who confirmed its practicality and effectiveness. The inclusion of additional elements, based on the colleague's suggestions, enhanced the checklist's comprehensiveness. By regularly using the checklist to reflect on my lessons, I was able to identify areas for improvement and make necessary adjustments.
+ 
+This systematic approach to lesson evaluation and adjustment built my confidence in my teaching abilities. I became more aware of the importance of critically assessing my teaching methods to enhance student learning. The practical tool I developed has become an integral part of my teaching practice, enabling me to continuously improve my lesson plans and delivery.
+ 
+**Reflection**
+Reflecting on this experience, I am pleased with the progress I have made in developing my didactic competence. The systematic evaluation and adjustment of my lessons have significantly improved my teaching effectiveness. I am now more confident in my ability to plan, analyze, evaluate, and adjust my lessons to meet the needs of my students.
+ 
+The positive feedback from my mentor and colleague confirms the value of the checklist and the importance of self-reflection in teaching. Moving forward, I will continue to use the checklist and seek feedback to refine my teaching strategies. Continuous professional development is essential to maintaining and enhancing my teaching effectiveness, ensuring that my students benefit from a well-rounded and engaging learning experience. This experience has been transformative, equipping me with the skills and confidence to be a more effective educator
+
+## Evidence of lesson analysis tool (table)
+
+![Bild 23](https://github.com/user-attachments/assets/47a05246-a72f-4533-80bb-7e4a420625f7)
