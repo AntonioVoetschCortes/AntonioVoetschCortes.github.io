@@ -25,5 +25,6 @@ In conclusion, these major decisions during my studies—learning Dutch, special
 
 ## Sources
 - Diloyan, A. (2017). The Importance of Communication in the Classroom: The Impact of Effective Communication Skills on Student Enthusiasm. American University of Armenia. <a href="https://baec.aua.am/files/2017/09/Angela_Diloyan_The-Importance-of-Communication-in-the-Classroom_Capstone.pdf" target="_blank">https://baec.aua.am/files/2017/09/Angela_Diloyan_The-Importance-of-Communication-in-the-Classroom_Capstone.pdf</a>
+- Genkova, P., Kruse, L. (2020). Do stays abroad increase intercultural and general competences, affecting employability?. Leadersh Educ Personal Interdiscip J 2, 81–89 <a href="https://doi.org/10.1365/s42681-020-00014-1" target="_blank">https://doi.org/10.1365/s42681-020-00014-1</a> 
 
 
