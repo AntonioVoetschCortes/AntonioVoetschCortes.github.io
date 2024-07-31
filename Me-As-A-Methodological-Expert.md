@@ -30,7 +30,7 @@ Reflecting on the experience, I was pleased with the positive feedback from both
  ### Source
  - Australian Education Research Organisation (2022). Formative assessment - Gathering and interpreting information to progress student learning. Australian Education Research Organisation. Retrieved from <a href="https://www.edresearch.edu.au/summaries-explainers/explainers/formative-assessment" target="_blank">https://www.edresearch.edu.au/summaries-explainers/explainers/formative-assessment</a>
 
- ## Evidene for the formative assessment in the lesson (E-mail to students)
+ ## Evidence for the formative assessment in the lesson (E-mail to students)
  **Picture 18 + 19: Screenshots of e-mail and document sent to students for formative evaluation**
 ![Screenshot (415)](https://github.com/user-attachments/assets/033bab1d-b8e6-478e-9895-91baed4c248f)
 ![Screenshot (416)](https://github.com/user-attachments/assets/cda1b13d-f5af-4389-8831-3cf7e6c6df11)
@@ -98,6 +98,9 @@ This systematic approach to lesson evaluation and adjustment built my confidence
 Reflecting on this experience, I am pleased with the progress I have made in developing my didactic competence. The systematic evaluation and adjustment of my lessons have significantly improved my teaching effectiveness. I am now more confident in my ability to plan, analyze, evaluate, and adjust my lessons to meet the needs of my students.
  
 The positive feedback from my mentor and colleague confirms the value of the checklist and the importance of self-reflection in teaching. Moving forward, I will continue to use the checklist and seek feedback to refine my teaching strategies. Continuous professional development is essential to maintaining and enhancing my teaching effectiveness, ensuring that my students benefit from a well-rounded and engaging learning experience. This experience has been transformative, equipping me with the skills and confidence to be a more effective educator
+
+## Source
+- Cambridge (2022). Planning conducting and evaluating training activities. Cambridge University Press & Assessment 2023. Retrieved from <a href="https://www.cambridgeenglish.org/teaching-english/professional-development/cambridge-english-trainer-framework/planning-conducting-and-evaluating-training-activities/" target="_blank">https://www.cambridgeenglish.org/teaching-english/professional-development/cambridge-english-trainer-framework/planning-conducting-and-evaluating-training-activities/</a> 
 
 ## Evidence of lesson analysis tool (table)
 
