@@ -29,4 +29,34 @@ In alignment with research findings from Harvard University (n.d.) and the Briti
 
 **Results:**  
 
-The lesson concluded with high engagement levels and evident motivation among students to improve their French communication skills. Feedback from both my mentor and students was overwhelmingly positive. My mentor praised my ability to make the subject engaging and relevant, contributing to effective learning outcomes. The following feedback received from my mentor (marked in yellow) confirms my enthusiasm for the subject French:   
+The lesson concluded with high engagement levels and evident motivation among students to improve their French communication skills. Feedback from both my mentor and students was overwhelmingly positive. My mentor praised my ability to make the subject engaging and relevant, contributing to effective learning outcomes. The following feedback received from my mentor (marked in yellow) confirms my enthusiasm for the subject French:  
+
+**Picture 1:** Screenshot Feedback Mentor Nadia Pineau
+![Screenshot (402)](https://github.com/user-attachments/assets/143599a0-956f-4e9f-9601-186e41301328)
+
+**Reflection:**
+Reflecting on this experience, I am pleased with how the lesson unfolded and the impact it had on student engagement and learning. Incorporating personal anecdotes proved effective in making the material relatable and establishing cultural understanding. In future lessons, I aim to maintain this approach while ensuring it aligns closely with specific learning goals and curriculum objectives. This experience reinforced my passion for teaching French and my commitment to making language learning a meaningful and enjoyable experience for students. Moving forward, I will continue to integrate personal stories and real-world applications into my teaching, striving to enhance both linguistic proficiency and cultural appreciation among learners.  
+
+### Sources
+- Harvard University (n.d.). Make real world connections to course material. Harvard University. Retrieved from <a href="https://ablconnect.harvard.edu/make-real-world-connections-course-material " target="_blank">https://ablconnect.harvard.edu/make-real-world-connections-course-material </a>
+- British Council (n.d.). Storytelling – benefits and tips. British Council. Retrieved from <a href="https://www.teachingenglish.org.uk/professional-development/teachers/managing-resources/articles/storytelling-benefits-and-tips" target="_blank">https://www.teachingenglish.org.uk/professional-development/teachers/managing-resources/articles/storytelling-benefits-and-tips </a>
+
+### Evidence for the lesson (PowerPoint)
+**Pictures 2-11: Screenshots PowerPoint Presentation**
+![Screenshot (420)](https://github.com/user-attachments/assets/483a15a3-6f7b-4dd9-861f-ed77ca769f0b)
+![Screenshot (421)](https://github.com/user-attachments/assets/98cae139-763e-4884-badd-689a3f565b33)
+![Screenshot (422)](https://github.com/user-attachments/assets/810faa6b-2ef5-457a-8849-8d48b4bf418f)
+![Screenshot (423)](https://github.com/user-attachments/assets/a764d242-723f-43ec-87a1-ab7579c7f36f)
+![Screenshot (424)](https://github.com/user-attachments/assets/8eefaf15-9b43-4f91-b203-db8055d06671)
+![Screenshot (425)](https://github.com/user-attachments/assets/8a9563e9-6114-4209-b70d-22542be75433)
+![Screenshot (426)](https://github.com/user-attachments/assets/9c58b56e-2164-4e5a-bc8d-a327e6801108)
+![Screenshot (427)](https://github.com/user-attachments/assets/4fef2966-2d1d-4672-8abb-02e4135aae10)
+![Screenshot (428)](https://github.com/user-attachments/assets/16d66c73-54ac-4256-b6a4-13777edd8c2d)
+![Screenshot (429)](https://github.com/user-attachments/assets/52e45e6f-b199-489d-ad66-020d53a706d1)
+
+
+
+
+
+
+
