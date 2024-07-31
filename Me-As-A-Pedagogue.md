@@ -81,3 +81,5 @@ Given more time, I would have liked to delve deeper into individual student chal
 **D: What are you going to do as a result?**
 In the future, I plan to allocate additional time for personalized feedback sessions, possibly sacrificing two lessons to ensure each student benefits from one-on-one discussions. This approach aligns with my commitment to nurturing student development and enhancing their learning experience. Regular feedback moments throughout the school year will be integral to my future teaching practice, reflecting my dedication to pedagogical competence and student-centered learning.
 
+## Source
+- Hattie, J., & Timperley, H. (2007). The Power of Feedback. Review of Educational Research, 77(1), 81-112. <a href="https://doi.org/10.3102/003465430298487" target="_blank">https://doi.org/10.3102/003465430298487</a>
