@@ -47,4 +47,23 @@ I am pleased with my performance and the research outcomes. The project was cond
 ### Source
 Wilson, E. (Ed.) (2017). School-based Research. A guide for education students (3rd ed.). London: SAGE.
 
+## ABCD-Reflection: Participation in open day
+**A: What Happened?**
 
+For an open day at Vathorst College Amersfoort, the French department was tasked with organizing activities to engage potential future students and their parents. Our goal was to stimulate curiosity about the French language and culture. To demonstrate my commitment to the school and my colleagues, I actively participated in this event. We collaboratively divided the workload, each contributing to various aspects of French culture and language. One activity was a French-themed escape room where participants translated French and Dutch words to reach the final goal. We also offered typical French treats like chocolate and cheese and decorated the room in a French style. My specific tasks included creating a “Quizizz” (see link below as evidence) with questions about French culture and organizing an activity to distinguish between French and German brands, as we shared the room with the German department.
+
+<a href="[https://baec.aua.am/files/2017/09/Angela_Diloyan_The-Importance-of-Communication-in-the-Classroom_Capstone.pdf](https://quizizz.com/join/quiz/63c6973cc3b0ee001db27c2c/start?studentShare=true)" target="_blank">[https://baec.aua.am/files/2017/09/Angela_Diloyan_The-Importance-of-Communication-in-the-Classroom_Capstone.pdf](https://quizizz.com/join/quiz/63c6973cc3b0ee001db27c2c/start?studentShare=true)</a> 
+ 
+**B: What Was Important About It?**
+
+Participating in this open day was not mandatory, but I chose to contribute to demonstrate my commitment to collaborating with my colleagues and supporting school events. Engaging in such educational tasks can significantly enhance a teacher’s professional development by developing new skills, gaining leadership experience, and broadening perspectives, which in turn, can make them more effective educators (Coladarci, 1992). Additionally, participating in team or department meetings facilitates collaboration, allowing colleagues to share ideas and suggestions for improving the school’s curriculum and activities (Conley, 1991). Moreover, involvement in school activities fosters a welcoming environment conducive to successful learning (Barret, Davies, Zhang, and Barret, 2015). My colleagues appreciated my collaboration and expressed their gratitude, highlighting my contributions to department meetings and overall engagement (see feedback below).
+
+![Screenshot (433)](https://github.com/user-attachments/assets/e608c76d-59dd-4192-adc8-d23428a2025b)
+
+**C: What Conclusions Can You Draw from the Event?**
+
+From this event, I concluded that I am capable of effectively collaborating with colleagues in educational contexts organized by the school and working independently to meet specific needs. I successfully applied my knowledge of the French language and culture and my organizational skills to create engaging activities. This experience allowed me to interact with children and parents, answer their questions, and stimulate their interest in French. My contributions not only benefited the French department and its teachers but also enhanced the school's reputation. This event boosted my confidence in my organizational abilities and reinforced my commitment to my professional development.
+ 
+**D: What Are You Going to Do as a Result?**
+
+This experience was particularly meaningful as it differed from my usual tasks of organizing lesson plans solely for my classes. Collaborating with other teachers from the French department for the open day allowed me to test and enhance my teamwork skills. I gained valuable knowledge and confidence in my ability to organize school activities and demonstrated professional conduct and communication skills within the team. I realized the importance of personal engagement not only for the smooth organization among colleagues but also for the benefit of students and the school. This experience showcased my ability to work effectively with other teachers and my commitment to serving the needs of my department and school, crucial components of professional competency.
