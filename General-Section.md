@@ -40,3 +40,20 @@ Lack of confidence could also be observed in my lesson planning, where I often d
 Furthermore, my internship experiences highlighted other areas needing improvement, notably time management and organizational skills. Procrastination occasionally marred my preparation and communication with mentors and students, impacting lessons and administrative tasks alike. Addressing these shortcomings became a focal point, especially during my PD4B internship. For instance, I often failed to communicate important information such as lesson plans, announcements for upcoming exams/ homework assignments or other relevant information for my mentors well in advance. My ability to be proactive and display professional conduct remained thus a challenge until my last PD4B internship.   
 
 Despite the setbacks, my journey to become a French and English through 4 years of studying and three internships has been marked by significant personal growth. From a shaky start, I now possess a clearer vision of effective teaching methods, bolstered by confidence in my linguistic abilities and cultural understanding. While challenges persist, including recent consultations regarding potential ADHD diagnosis, I remain committed to continuous improvement and eagerly await further developments in my professional journey.  
+
+### Internship Evaluation Form PD 4B:
+[Internship Evaluation Form PD4B.pdf](https://github.com/user-attachments/files/16439876/Internship.Evaluation.Form.PD4B.pdf)
+
+### OTA Lesson Observation PD 4B:
+[OTA Lesson Observation PD4B.pdf](https://github.com/user-attachments/files/16439946/OTA.Lesson.Observation.PD4B.pdf)
+
+### Reflection Lesson Observation PD4B: 
+[Reflection Lesson Observation PD4B (1).pdf](https://github.com/user-attachments/files/16439967/Reflection.Lesson.Observation.PD4B.1.pdf)
+
+
+
+
+
+
+
+
