@@ -54,7 +54,33 @@ Reflecting on this experience, I am pleased with how the lesson unfolded and the
 ![Screenshot (428)](https://github.com/user-attachments/assets/16d66c73-54ac-4256-b6a4-13777edd8c2d)
 ![Screenshot (429)](https://github.com/user-attachments/assets/52e45e6f-b199-489d-ad66-020d53a706d1)
 
+## ABCD-Reflection: Developing intercultural awareness and promoting pluriculturalism/ -lingualism  
+**A: What happened? What caused it?**
 
+This was one of the last lessons I taught to my English HAVO/VWO 2 class at Kolegio Alejandro Paula. The task was to revise the concepts of writing a review with the students. I aimed not only to review how to write a review but also to convey my passion for languages. As the video demonstrates, my goal was to illustrate how knowledge of one language can contribute to the acquisition of another. I wanted the students to realize the potential an average person in Curaçao has to develop significant intercultural competencies by knowing multiple languages. By understanding the languages they already knew, they could easily learn a new one and expand their existing knowledge. Through this lesson, I aimed to emphasize the importance of language learning and its relevance in school, while seamlessly integrating the learning objective of teaching them what a review is and how to write one.  
+
+**B: What was important about it?** 
+
+By starting my lesson with a German saying and having the students reflect on its possible meaning, I aimed to subtly introduce the concept of plurilingualism and pluriculturalism. Plurilingualism and pluriculturalism highlight the holistic nature of individual language users/learners' linguistic and cultural repertoires. Learners/users are seen as social agents who draw upon all sorts of resources in their linguistic and cultural repertoires and further develop these resources throughout their trajectories. Plurilingualism/pluriculturalism emphasizes the dynamic use of multiple languages/varieties and cultural knowledge, awareness, and experience in social situations. There are numerous benefits to teaching plurilingualism in education, including promoting respect and appreciation for linguistic and cultural diversity and enhancing language awareness and sensitivity (Council of Europe).  
+
+The students showed interest in the saying and were captivated by this unique start to the lesson. Once their attention was captured, I proceeded with the rest of the lesson and further promoted their intercultural awareness and development by showing them a video of typical German food. Feedback from my students has shown that I am capable of explaining the subject matter effectively and that my ability to speak several languages has made a lasting impression on them (see feedback, picture 12).  
+
+**Picture 12: Feedback students from Google survey**
+![Screenshot (405)](https://github.com/user-attachments/assets/2fa6dfd7-ceb5-48fa-b2f7-bb0688718554)
+
+**C: What conclusions can you draw from the event?**  
+
+Integrating elements from the German language and culture into an English lesson might seem unconventional at first. However, the increased participation and interest from my students demonstrated that my goal of raising awareness about the transcendental power of languages had a positive effect. Speaking English has immense power, as it enables communication with most people globally. My understanding of this subject goes beyond that; as a teacher, I aim to promote intercultural understanding, tolerance, and respect. I see great value in teaching students about my own cultural heritage and making them aware that they are not confined to one culture or one language.  
+
+**D: What are you going to do as a result?**
+
+Being pluricultural myself, having grown up in Germany to a Spanish mother and a German father, and having studied French and English in the Netherlands, I will continue to serve as a role model by incorporating plurilinguistic and pluricultural elements into my teaching. I aim to transcend the traditional meaning of the subject English, not only teaching the language but also transmitting cultural elements that are relevant from a global perspective.  
+
+### Source
+- Council of Europe (2022). THE IMPORTANCE OF PLURILINGUAL AND INTERCULTURAL EDUCATION FOR DEMOCRATIC CULTURE. Council of Europe. Retrieved from <a href="https://rm.coe.int/prems-013522-gbr-2508-cmrec-2022-1-et-expose-motifs-couv-a5-bat-web/1680a967b4ECML " target="_blank">https://rm.coe.int/prems-013522-gbr-2508-cmrec-2022-1-et-expose-motifs-couv-a5-bat-web/1680a967b4ECML </a>
+
+### Evidence for the lesson (video)
+<a href="https://youtu.be/yhIkiQ8aWm0" target="_blank">https://youtu.be/yhIkiQ8aWm0</a> 
 
 
 
