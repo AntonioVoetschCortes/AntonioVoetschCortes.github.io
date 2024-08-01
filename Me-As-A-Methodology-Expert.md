@@ -92,7 +92,8 @@ Additionally, I presented the checklist to a colleague for feedback. The colleag
 
 **Picture 24: Screenshot of feedback from my colleague, Nicolas Joel, on lesson analysis tool:**
 
- ![Bild12](https://github.com/user-attachments/assets/131d3bd7-1d52-4d84-b419-e0205a79686f)
+![NICOLAS DIGGA](https://github.com/user-attachments/assets/da23213c-c9d4-4862-a043-87d41c2c42ca)
+
 
 **Results**
 The creation and use of the checklist yielded significant results. I received positive feedback from my colleague, who confirmed its practicality and effectiveness. The inclusion of additional elements, based on the colleague's suggestions, enhanced the checklist's comprehensiveness. By regularly using the checklist to reflect on my lessons, I was able to identify areas for improvement and make necessary adjustments.
@@ -109,4 +110,5 @@ The positive feedback from my mentor and colleague confirms the value of the che
 
 ### Evidence of lesson analysis tool (table)
 
-![Bild 23](https://github.com/user-attachments/assets/47a05246-a72f-4533-80bb-7e4a420625f7)
+![CHECKLIST](https://github.com/user-attachments/assets/51aab6ed-bbf3-46a2-85f3-13e8d0e5abe3)
+
