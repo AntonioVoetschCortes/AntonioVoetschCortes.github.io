@@ -57,7 +57,10 @@ Reflecting on this experience, I am pleased with how the lesson unfolded and the
 ## ABCD-Reflection: Developing intercultural awareness and promoting pluriculturalism/ -lingualism  
 **A: What happened? What caused it?**
 
-This was one of the last lessons I taught to my English HAVO 3 class at Kolegio Alejandro Paula. The task was to revise the concepts of writing a review with the students. I aimed not only to review how to write a review but also to convey my passion for languages. As the video demonstrates, my goal was to illustrate how knowledge of one language can contribute to the acquisition of another. I wanted the students to realize the potential an average person in Curaçao has to develop significant intercultural competencies by knowing multiple languages. By understanding the languages they already knew, they could easily learn a new one and expand their existing knowledge. Through this lesson, I aimed to emphasize the importance of language learning and its relevance in school, while seamlessly integrating the learning objective of teaching them what a review is and how to write one.  
+This was one of the last lessons I taught to my English HAVO 3 class at Kolegio Alejandro Paula. The task was to revise the concepts of writing a review with the students. I aimed not only to review how to write a review but also to convey my passion for languages. As the video below demonstrates, my goal was to illustrate how knowledge of one language can contribute to the acquisition of another. I wanted the students to realize the potential an average person in Curaçao has to develop significant intercultural competencies by knowing multiple languages. By understanding the languages they already knew, they could easily learn a new one and expand their existing knowledge. Through this lesson, I aimed to emphasize the importance of language learning and its relevance in school, while seamlessly integrating the learning objective of teaching them what a review is and how to write one.  
+
+### Evidence for the lesson (video)
+<a href="https://youtu.be/yhIkiQ8aWm0" target="_blank">https://youtu.be/yhIkiQ8aWm0</a> 
 
 **B: What was important about it?** 
 
@@ -79,9 +82,6 @@ Being pluricultural myself, having grown up in Germany to a Spanish mother and a
 ### Source
 - Council of Europe (2022). THE IMPORTANCE OF PLURILINGUAL AND INTERCULTURAL EDUCATION FOR DEMOCRATIC CULTURE. Council of Europe. Retrieved from <a href="https://rm.coe.int/prems-013522-gbr-2508-cmrec-2022-1-et-expose-motifs-couv-a5-bat-web/1680a967b4ECML " target="_blank">https://rm.coe.int/prems-013522-gbr-2508-cmrec-2022-1-et-expose-motifs-couv-a5-bat-web/1680a967b4ECML </a>
 
-### Evidence for the lesson (video)
-<a href="https://youtu.be/yhIkiQ8aWm0" target="_blank">https://youtu.be/yhIkiQ8aWm0</a> 
-
 ## STARR-Reflection: Explaining the subject-matter (how to form adjectives) to students 
 
 **Situation**
@@ -91,7 +91,7 @@ The situation was that I needed to teach my second-year French class at Vathorst
  **Task**
  
  My task was to explain the different forms that adjectives can take in French and ensure that the students could accurately form these adjectives on their own by the end of the lesson. My role was to present the material clearly and comprehensibly, making sure that each student could apply these language rules in their understanding of French. 
- I wanted to create an engaging grammar lesson. I expected myself to make the material as understandable as possible, considering common misconceptions and potential difficulties in understanding. Additionally, it was important for me to check whether the students had grasped the explanations. 
+ I wanted to create an engaging grammar lesson. I expected myself to make the material as understandable as possible, considering common misconceptions and potential difficulties in understanding. Additionally, it was important for me to check whether the students had understood the explanations. 
  
  **Action**
  
@@ -99,7 +99,7 @@ The situation was that I needed to teach my second-year French class at Vathorst
  
 **Result**
 
- The result was a productive grammar lesson that successfully introduced students to different adjective forms. Feedback from my colleague (see feedback, picture 13), who observed the lesson, indicated that I could explain the subject matter clearly and that I made significant efforts to ensure that all students understood the material. 
+The result was a productive grammar lesson that successfully introduced students to different adjective forms. Feedback from my colleague (see feedback, picture 13), who observed the lesson, indicated that I could explain the subject matter clearly and that I made significant efforts to ensure that all students understood the material. 
 
 **Picture 13: Feedback received from my colleague on the lesson**
 
@@ -120,10 +120,3 @@ I am generally very satisfied with my knowledge of both French and English. This
 ![Screenshot (409)](https://github.com/user-attachments/assets/d5f3e9ac-1db5-41b2-a725-8e490b232066)
 ![Screenshot (410)](https://github.com/user-attachments/assets/da9bc438-d2d3-41b0-9d52-ede6525f0fcd)
 ![Screenshot (411)](https://github.com/user-attachments/assets/43c246e3-780c-4dcc-83f3-867077789f81)
-
-
-
-
-
-
-
