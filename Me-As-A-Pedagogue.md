@@ -29,16 +29,16 @@ The student's enthusiastic response and her acknowledgment that the advice was h
 
 This experience demonstrated my ability to have meaningful one-on-one conversations with students, instilling confidence in them regarding their academic progress and motivating them to improve. It also highlighted my capacity to show empathy in my interactions with students and create good relationships with them. This is also evidenced by feedback received from my mentor at the time, Rafaela Barham (see picture 23), but also by feedback received during my recent internships at Vathorst College and Kolegio Alejandro Paula (see pictures 24, 25 and 26). Moving forward, I will continue to engage in individual meetings with students to support their holistic development and address their personal and academic needs. This approach not only fosters trust but also empowers students to take control of their learning and personal growth. By regularly incorporating these strategies, I aim to help students set higher expectations for themselves, receive continuous feedback, and manage their academic workloads effectively.
 
-**Picture 23: Screenshot of feedback from my English mentor at UniC on building relationships with students:**
+**Picture 25: Screenshot of feedback from my English mentor at UniC on building relationships with students:**
 ![Rafa for real](https://github.com/user-attachments/assets/a5e179ac-a962-45ec-a986-8b2a19823750)
 
-**Picture 24: Screenshot of feedback from my French mentor at Vathorst College, Nadia Pineau, on building relationships with students:**
+**Picture 26: Screenshot of feedback from my French mentor at Vathorst College, Nadia Pineau, on building relationships with students:**
 ![Nadia feedback contact leerlingen](https://github.com/user-attachments/assets/94481e1d-761e-4447-9fed-aeb007b191e9)
 
-**Picture 25: Screenshot of feedback from my colleague at Vathorst College, Nicolas Joel, on building relationships with students:**
+**Picture 27: Screenshot of feedback from my colleague at Vathorst College, Nicolas Joel, on building relationships with students:**
 ![Feedback Nicolas contact leerlingen](https://github.com/user-attachments/assets/21fa8d31-e02b-4886-a0b8-830f60f1f0d0)
 
-**Picture 26: Screenshot of feedback from my English mentor at Kolegio Alejandro Paula, on creating relationships with students:**
+**Picture 28: Screenshot of feedback from my English mentor at Kolegio Alejandro Paula, on creating relationships with students:**
 ![Shanina feedback leerlingen Markiert](https://github.com/user-attachments/assets/577242af-bbd0-495f-8a42-cce11a9cdc5f)
 
 ## Source:
@@ -60,6 +60,7 @@ At the start of the quiz, I set clear expectations: students should focus on the
 **Results:**
 The interruptions indicated that the learning environment was not perfectly focused initially. However, I handled the situation by addressing disruptive behavior and maintaining a positive attitude. Despite the disruptions, I led the quiz enthusiastically, ensuring students remained engaged and the environment conducive to learning. The following feedback received from my supervisor on this lesson confirms my ability to address disruptive behaviour and maintain the focus on the lesson:
 
+**Picture 29: Screenshot of feedback on OTA form from my supervisor at Vathorst College, Mijke Lambooij, on adressing disruptive behavior and keeping the focus:**
 ![Screenshot (430)](https://github.com/user-attachments/assets/5ebde791-4c83-4891-98f5-4fb881876ab3)
 
  
@@ -84,6 +85,7 @@ Feedback is crucial in education, influencing student achievement significantly.
 
 Given more time, I would have liked to delve deeper into individual student challenges and preferences in French. Despite this, I believe I effectively communicated grades and progress, emphasizing empathy and support. It became clear that such personal interactions are invaluable for students, offering insights into their learning progress and fostering a positive learning environment. This example serves as further evidence that one of my strengths lays in establishing good contact with my students and making sure the expectations within the subject are clear. This feedback received by my colleague, Native Speaker Amandine Coutard, accentuates these traits in written form:
 
+**Picture 30: Screenshot of feedback from my colleague at Vathorst College, Amandine Coutard, on ability to set clear expectations in communication with students and buidling relationships:**
 ![Screenshot (431)](https://github.com/user-attachments/assets/ba2f8fab-e120-4d10-9b8f-73655aac6b62)
 
 
