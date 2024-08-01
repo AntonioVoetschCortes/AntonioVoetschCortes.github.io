@@ -9,10 +9,13 @@ Significant learning moments often arose from instances where things did not go 
  Throughout my journey, I have discovered that each country, school, and classroom is unique, requiring teachers to adapt their teaching methods accordingly. The most important aspect of this adaptation is developing meaningful relationships where students feel they can trust you. While challenges in this competence will continue to arise, it is essential to find ways to address them as a competent educator. 
 In conclusion, my development in pedagogical competence has been a complex and ongoing journey. Balancing authority and building relationships, emphasizing respect, fostering inclusivity, and promoting civic development are all critical components of this competence. Each experience has contributed to my growth as an educator, preparing me to navigate the diverse and dynamic landscape of teaching. I am committed to continuing this journey, embracing challenges, and striving to become a more effective and empathetic educator.
 
-## ABCD-Reflection: One-on-one-meeting with student
+## ABCD-Reflection: Creating meaningful relationships with students
 **A: What happened? What caused it?**
 
-During my internship at UniC, I engaged in several individualized meetings with my students to discuss their progress, not only in English but also in other subjects and their overall development at school. These meetings aimed to give me practical experience in mentoring. As their main English teacher, I used these sessions to address various subjects, their well-being, and ways to overcome challenges. In one particular meeting, a student confided in me about her difficulties with planning and prioritizing tasks. According to Shrum (2019), individualized meetings help students learn to expect more of themselves, receive constant and timely feedback and clarification, and manage their academic loads effectively. This framework guided our conversation.
+During my internship at UniC, I engaged in several individualized meetings with my students to discuss their progress, not only in English but also in other subjects and their overall development at school. These meetings aimed to give me practical experience in mentoring. As their main English teacher, I used these sessions to address various subjects, their well-being, and ways to overcome challenges. In one particular meeting, a student confided in me about her difficulties with planning and prioritizing tasks (see vide below). According to Shrum (2019), individualized meetings help students learn to expect more of themselves, receive constant and timely feedback and clarification, and manage their academic loads effectively. This framework guided our conversation.
+
+**Video of one-on-one-meeting with student**
+<a href="https://youtu.be/o4eK449-Ppg" target="_blank">https://youtu.be/o4eK449-Ppg</a> 
  
 **B: What was important about it?**
 
@@ -20,18 +23,23 @@ The significance of this conversation lay in the student's willingness to open u
  
 **C: What conclusions can you draw from the event?**
 
-The student's enthusiastic response and her acknowledgment that the advice was helpful indicated that the conversation had a positive impact. It was clear that the talk provided her with practical strategies to manage her academic load more effectively and that she felt supported in her challenges. This reinforced the idea that individualized meetings are a powerful tool for student development, helping them to expect more from themselves and manage their academic responsibilities more efficiently.
+The student's enthusiastic response and her acknowledgment that the advice was helpful indicated that the conversation had a positive impact. It was clear that the talk provided her with practical strategies to manage her academic load more effectively and that she felt supported in her challenges. This reinforced the idea that individualized meetings are a powerful tool for student development, helping them to expect more from themselves and manage their academic responsibilities more efficiently. More importantly the incidence serves as evidence that one of my strengths as a pedagogue lays in creating meaningful and trustful relationships with my students.
  
 **D: What are you going to do as a result?**
 
-This experience demonstrated my ability to have meaningful one-on-one conversations with students, instilling confidence in them regarding their academic progress and motivating them to improve. It also highlighted my capacity to show empathy in my interactions with students and create good relationships with them. This is also evidenced by feedback received from my mentor. Moving forward, I will continue to engage in individual meetings with students to support their holistic development and address their personal and academic needs. This approach not only fosters trust but also empowers students to take control of their learning and personal growth. By regularly incorporating these strategies, I aim to help students set higher expectations for themselves, receive continuous feedback, and manage their academic workloads effectively.
+This experience demonstrated my ability to have meaningful one-on-one conversations with students, instilling confidence in them regarding their academic progress and motivating them to improve. It also highlighted my capacity to show empathy in my interactions with students and create good relationships with them. This is also evidenced by feedback received from my mentor at the time, Rafaela Barham (see picture 23), but also by feedback received during my recent internships at Vathorst College and Kolegio Alejandro Paula (see pictures 24, 25 and 26). Moving forward, I will continue to engage in individual meetings with students to support their holistic development and address their personal and academic needs. This approach not only fosters trust but also empowers students to take control of their learning and personal growth. By regularly incorporating these strategies, I aim to help students set higher expectations for themselves, receive continuous feedback, and manage their academic workloads effectively.
 
-**Picture 23: Screenshot of feedback from my mentor on building relationships with students:**
+**Picture 23: Screenshot of feedback from my English mentor at UniC on building relationships with students:**
 ![Rafa for real](https://github.com/user-attachments/assets/a5e179ac-a962-45ec-a986-8b2a19823750)
 
+**Picture 24: Screenshot of feedback from my French mentor at Vathorst College, Nadia Pineau, on building relationships with students:**
+![Nadia feedback contact leerlingen](https://github.com/user-attachments/assets/94481e1d-761e-4447-9fed-aeb007b191e9)
 
-**Video of one-on-one-meeting with student**
-<a href="https://youtu.be/o4eK449-Ppg" target="_blank">https://youtu.be/o4eK449-Ppg</a> 
+**Picture 25: Screenshot of feedback from my colleague at Vathorst College, Nicolas Joel, on building relationships with students:**
+![Feedback Nicolas contact leerlingen](https://github.com/user-attachments/assets/21fa8d31-e02b-4886-a0b8-830f60f1f0d0)
+
+**Picture 26: Screenshot of feedback from my English mentor at Kolegio Alejandro Paula, on creating relationships with students:**
+![Shanina feedback leerlingen Markiert](https://github.com/user-attachments/assets/577242af-bbd0-495f-8a42-cce11a9cdc5f)
 
 ## Source:
 Shrum, Donna L. (2019). "Empower Students Through Individual Conferences." ASCD. Retrieved from <a href="https://ascd.org/el/articles/empower-students-through-individual-conferences" target="_blank">https://ascd.org/el/articles/empower-students-through-individual-conferences</a> 
