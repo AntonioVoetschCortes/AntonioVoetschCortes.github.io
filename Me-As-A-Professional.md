@@ -58,6 +58,7 @@ For an open day at Vathorst College Amersfoort, the French department was tasked
 
 Participating in this open day was not mandatory, but I chose to contribute to demonstrate my commitment to collaborating with my colleagues and supporting school events. Engaging in such educational tasks can significantly enhance a teacher’s professional development by developing new skills, gaining leadership experience, and broadening perspectives, which in turn, can make them more effective educators (Coladarci, 1992). Additionally, participating in team or department meetings facilitates collaboration, allowing colleagues to share ideas and suggestions for improving the school’s curriculum and activities (Conley, 1991). Moreover, involvement in school activities fosters a welcoming environment conducive to successful learning (Barret, Davies, Zhang, and Barret, 2015). My colleagues appreciated my collaboration and expressed their gratitude, highlighting my contributions to department meetings and overall engagement (see feedback below).
 
+**Picture 26, screenshot of feedback from my colleagues at Vathorst:**
 ![Screenshot (433)](https://github.com/user-attachments/assets/e608c76d-59dd-4192-adc8-d23428a2025b)
 
 **C: What Conclusions Can You Draw from the Event?**
@@ -67,3 +68,41 @@ From this event, I concluded that I am capable of effectively collaborating with
 **D: What Are You Going to Do as a Result?**
 
 This experience was particularly meaningful as it differed from my usual tasks of organizing lesson plans solely for my classes. Collaborating with other teachers from the French department for the open day allowed me to test and enhance my teamwork skills. I gained valuable knowledge and confidence in my ability to organize school activities and demonstrated professional conduct and communication skills within the team. I realized the importance of personal engagement not only for the smooth organization among colleagues but also for the benefit of students and the school. This experience showcased my ability to work effectively with other teachers and my commitment to serving the needs of my department and school, crucial components of professional competency.
+
+### Sources
+- Coladarci, T. (1992). Teachers' sense of efficacy and commitment to teaching. Journal of Experimental Education, 60(4), 323–337. <a href="https://doi.org/10.1080/00220973.1992.9943869" target="_blank">https://doi.org/10.1080/00220973.1992.9943869</a>
+- Conley, S. (1991). Chapter 6: Review of Research on Teacher Participation in School Decision Making. Review of Research in Education, 17(1), 225-266. <a href="https://doi.org/10.3102/0091732X017001225" target="_blank">https://doi.org/10.3102/0091732X017001225</a>
+- Barret, P., Davies, F., Zhang, Y., & Barret, L. (2015). The impact of classroom design on pupils' learning: Final results of a holistic, multi-level analysis. Building and Environment, 89, 118-133. <a href="https://doi.org/10.1016/j.buildenv.2015.02.013" target="_blank">https://doi.org/10.1016/j.buildenv.2015.02.013</a>
+
+
+## STARR-Reflection: Professional integration and engagement on Curacao
+**Situation**
+
+During my final internship this year, I was immersed in a new culture at a new school in Curaçao, facing different norms, values, and infrastructure than I was accustomed to. I taught English and French as the main teacher in multiple HAVO and VWO classes. This opportunity was ideal for developing my professional identity and placing it within an international and intercultural setting. I aimed to integrate into the new system by offering my support and help wherever needed, including participating in significant school events such as a school trip to a musical and serving as a supervisor during official exam days.
+
+**Task**
+
+As an intern, my primary role was to prepare and execute English and French lessons and collaborate with my colleagues. Additional commitments were not expected of me since they were beyond my official responsibilities.
+I aimed to integrate into the new culture, learn the local language, and immerse myself in school activities. This required extending my role beyond that of an intern to take on more professional responsibilities. I expected myself to seize opportunities for professional growth and consciously work to integrate into the school system. Developing my professional identity also necessitated understanding my cultural biases and their influence on interactions with students and colleagues. According to the Council of Europe, intercultural competence requires a professional's commitment to engage with various contexts dynamically and continuously.
+
+**Action**
+
+To demonstrate my commitment to integrating into Kolegio Alejandro Paula, I actively participated in a school trip to a local musical. I co-led a group of students with another teacher, ensuring their safe transportation by bus and their responsible behavior at the theatre (see video below as evidence). Additionally, I volunteered as a supervisor during exam weeks, committing extra days and hours to support the school’s needs. This involvement underscored my dedication to the school's well-being and my desire to be an integral part of the community.
+
+<a href="https://youtube.com/shorts/CADv07h8P_8?feature=share" target="_blank">https://youtube.com/shorts/CADv07h8P_8?feature=share</a> 
+
+**Result**
+
+My efforts were recognized by my colleagues, who acknowledged my successful integration into the school. They noted my ability to build good relationships with both colleagues and students, and my ease in adapting to the new cultural environment (see feedback below, picture 27). My actions demonstrated my commitment to understanding Curaçao's culture and my willingness to adopt new values and rules, thereby working effectively with my colleagues in a new setting.
+
+**Picture 27 and 28: Screenshots of feedback from my English and French mentor, Shanina Ignacius and Nicole Henrietta, on my integration and involvement on Curacao:**
+
+![Screenshot Shanina](https://github.com/user-attachments/assets/2b711273-e23f-4d05-9246-13ca7fde1187)
+![Screenshot Nicole](https://github.com/user-attachments/assets/a70656bc-24f4-43be-8638-568303e7a655)
+
+**Reflection**
+
+I am very satisfied with my experience in Curaçao, despite the challenges of being far from home alone for the first time. The students appreciated my interest, which fostered reciprocal engagement. I became familiar with the school, showing a keen interest in connecting with colleagues beyond my direct work environment. My participation in the school trip and extra work as a supervisor illustrated my ability to contribute to school events and integrate into the school culture. This experience affirmed my capability to work well in diverse contexts, especially intercultural ones.
+
+### Source: 
+- Council of Europe. (n.d.). Developing intercultural competence through education. Council of Europe Retrieved from <a href="https://rm.coe.int/developing-intercultural-enfr/16808ce258" target="_blank">https://rm.coe.int/developing-intercultural-enfr/16808ce258</a>
