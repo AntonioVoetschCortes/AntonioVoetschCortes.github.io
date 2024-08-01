@@ -27,7 +27,8 @@ The student's enthusiastic response and her acknowledgment that the advice was h
 This experience demonstrated my ability to have meaningful one-on-one conversations with students, instilling confidence in them regarding their academic progress and motivating them to improve. It also highlighted my capacity to show empathy in my interactions with students and create good relationships with them. This is also evidenced by feedback received from my mentor. Moving forward, I will continue to engage in individual meetings with students to support their holistic development and address their personal and academic needs. This approach not only fosters trust but also empowers students to take control of their learning and personal growth. By regularly incorporating these strategies, I aim to help students set higher expectations for themselves, receive continuous feedback, and manage their academic workloads effectively.
 
 **Picture 23: Screenshot of feedback from my mentor on building relationships with students:**
-![Rafa](https://github.com/user-attachments/assets/0a13c616-7608-46e8-995f-41cf951f3ac1)
+![Rafa for real](https://github.com/user-attachments/assets/a5e179ac-a962-45ec-a986-8b2a19823750)
+
 
 **Video of one-on-one-meeting with student**
 <a href="https://youtu.be/o4eK449-Ppg" target="_blank">https://youtu.be/o4eK449-Ppg</a> 
