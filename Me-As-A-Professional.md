@@ -35,7 +35,7 @@ To achieve my objectives, I conducted extensive research encompassing methodolog
 
 As the screenshot below indicates, the research resulted in a satisfactory grade and positive evaluation. While some areas required improvement, such as updating research findings, ensuring subject-specific relevance, and elaborating on certain aspects, the overall feedback was favorable. This validation reinforced my dedication to the project and provided practical insights that enhanced my knowledge and skills as a language teacher. The research highlighted the importance of engaging students meaningfully, providing abundant language input and output, and employing key strategies like repetition, formative assessment, and differentiation.
 
-**Picture 25: Screenshot of feedback received from my assessor on my research**
+**Picture 31: Screenshot of feedback received from my assessor, Carina Janse, on my research:**
 
 ![Research](https://github.com/user-attachments/assets/e42d122b-93f7-463e-ace5-8eeff0103cce)
 
@@ -58,7 +58,7 @@ For an open day at Vathorst College Amersfoort, the French department was tasked
 
 Participating in this open day was not mandatory, but I chose to contribute to demonstrate my commitment to collaborating with my colleagues and supporting school events. Engaging in such educational tasks can significantly enhance a teacher’s professional development by developing new skills, gaining leadership experience, and broadening perspectives, which in turn, can make them more effective educators (Coladarci, 1992). Additionally, participating in team or department meetings facilitates collaboration, allowing colleagues to share ideas and suggestions for improving the school’s curriculum and activities (Conley, 1991). Moreover, involvement in school activities fosters a welcoming environment conducive to successful learning (Barret, Davies, Zhang, and Barret, 2015). My colleagues appreciated my collaboration and expressed their gratitude, highlighting my contributions to department meetings and overall engagement (see feedback below).
 
-**Picture 26, screenshot of feedback from my colleagues at Vathorst:**
+**Picture 32, screenshot of feedback from my colleagues at Vathorst College, Nicolas Joel and Amandine Coutard, and my mentor Nadia Pineau on my professional engagement at school:**
 ![Screenshot (433)](https://github.com/user-attachments/assets/e608c76d-59dd-4192-adc8-d23428a2025b)
 
 **C: What Conclusions Can You Draw from the Event?**
@@ -95,7 +95,7 @@ To demonstrate my commitment to integrating into Kolegio Alejandro Paula, I acti
 
 My efforts were recognized by my colleagues, who acknowledged my successful integration into the school. They noted my ability to build good relationships with both colleagues and students, and my ease in adapting to the new cultural environment (see feedback below, picture 27). My actions demonstrated my commitment to understanding Curaçao's culture and my willingness to adopt new values and rules, thereby working effectively with my colleagues in a new setting.
 
-**Picture 27 and 28: Screenshots of feedback from my English and French mentor, Shanina Ignacius and Nicole Henrietta, on my integration and involvement on Curacao:**
+**Picture 33 and 34: Screenshots of feedback from my English and French mentor, Shanina Ignacius and Nicole Henrietta, on my integration and involvement on Curacao:**
 
 ![Screenshot Shanina](https://github.com/user-attachments/assets/2b711273-e23f-4d05-9246-13ca7fde1187)
 ![Screenshot Nicole](https://github.com/user-attachments/assets/a70656bc-24f4-43be-8638-568303e7a655)
