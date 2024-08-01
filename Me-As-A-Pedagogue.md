@@ -41,7 +41,7 @@ This experience demonstrated my ability to have meaningful one-on-one conversati
 **Picture 28: Screenshot of feedback from my English mentor at Kolegio Alejandro Paula, on creating relationships with students:**
 ![Shanina feedback leerlingen Markiert](https://github.com/user-attachments/assets/577242af-bbd0-495f-8a42-cce11a9cdc5f)
 
-## Source:
+### Source:
 Shrum, Donna L. (2019). "Empower Students Through Individual Conferences." ASCD. Retrieved from <a href="https://ascd.org/el/articles/empower-students-through-individual-conferences" target="_blank">https://ascd.org/el/articles/empower-students-through-individual-conferences</a> 
 
 ## STARR-Reflection: Classroom management during quiz-activity
@@ -67,7 +67,7 @@ The interruptions indicated that the learning environment was not perfectly focu
 **Reflection:**
 While the classroom was not completely silent, this does not necessarily indicate a lack of a safe learning environment. Some noise can signify student engagement and natural excitement. This experience demonstrated my ability to manage a classroom effectively, keeping students focused and engaged. It highlighted my capacity to create a positive and productive learning atmosphere, even when challenges arise. This balance of enthusiasm and discipline is crucial for establishing a supportive and dynamic educational environment.
 
-## Source
+### Source
 - Geerts, Walter, and René Van Kralingen. The Teachers’ Handbook : Secondary and Vocational Education.
 Bussum, Uitgeverij Coutinho, 2018
 
@@ -92,5 +92,5 @@ Given more time, I would have liked to delve deeper into individual student chal
 **D: What are you going to do as a result?**
 In the future, I plan to allocate additional time for personalized feedback sessions, possibly sacrificing two lessons to ensure each student benefits from one-on-one discussions. This approach aligns with my commitment to nurturing student development and enhancing their learning experience. Regular feedback moments throughout the school year will be integral to my future teaching practice, reflecting my dedication to pedagogical competence and student-centered learning.
 
-## Source
+### Source
 - Hattie, J., & Timperley, H. (2007). The Power of Feedback. Review of Educational Research, 77(1), 81-112. <a href="https://doi.org/10.3102/003465430298487" target="_blank">https://doi.org/10.3102/003465430298487</a>
