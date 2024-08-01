@@ -17,7 +17,7 @@ My responsibility was to instruct the students on how to construct sentences in 
 **Action**
 To start, I read through all the submitted texts to identify common errors and challenges students faced in writing French. I compiled these observations and sent an email to the class, including an example text for students to compare against their own. Additionally, I provided further explanations during class to clarify the reasons behind the mistakes. Students were then asked to rewrite their texts. Seeking feedback (see feedback, picture 17) from Meike Berben, an educational expert from CPS, I received positive remarks on the visibility of feedback and feedforward elements in my approach. However, I realized that I had omitted a crucial step—reassessing the revised texts to complete the formative assessment cycle. This insight underscored the importance of thorough follow-through in formative assessment.
 
-**Picture 17: Screenshot of feedback received from didactic expert, consultant and trainer at CPS, Meike Berben:**
+**Picture 19: Screenshot of feedback received from didactic expert, consultant and trainer at CPS, Meike Berben:**
  ![Screenshot (414)](https://github.com/user-attachments/assets/0697d4c1-c4f0-4ddc-9d2d-83e056f37506)
 
 **Result**
@@ -31,7 +31,7 @@ Reflecting on the experience, I was pleased with the positive feedback from both
  - Australian Education Research Organisation (2022). Formative assessment - Gathering and interpreting information to progress student learning. Australian Education Research Organisation. Retrieved from <a href="https://www.edresearch.edu.au/summaries-explainers/explainers/formative-assessment" target="_blank">https://www.edresearch.edu.au/summaries-explainers/explainers/formative-assessment</a>
 
  ### Evidence for the formative assessment in the lesson (E-mail to students)
- **Picture 18 + 19: Screenshots of e-mail and document sent to students for formative evaluation**
+ **Picture 20 + 21: Screenshots of e-mail and document sent to students for formative evaluation**
 ![Screenshot (415)](https://github.com/user-attachments/assets/033bab1d-b8e6-478e-9895-91baed4c248f)
 ![Screenshot (416)](https://github.com/user-attachments/assets/cda1b13d-f5af-4389-8831-3cf7e6c6df11)
 
@@ -44,7 +44,7 @@ Reflecting on the experience, I was pleased with the positive feedback from both
 
 I intended to implement differentiation by dividing activities into three levels: beginner, intermediate, and advanced. I assumed that striving for the most challenging level would be enough motivation. However, after reviewing my students’ work, I found that only a few had attempted the most difficult level. I sought feedback from Meike Berben, an educational consultant at CPS, who provided the following advice:
 
-**Picture 20: Screenshot of feedback received from didactic expert, consultant and trainer at CPS, Meike Berben:**
+**Picture 22: Screenshot of feedback received from didactic expert, consultant and trainer at CPS, Meike Berben:**
 
 ![Hallo](https://github.com/user-attachments/assets/cfa268b4-3ced-479a-a6f1-8faa4b6d495d)
 
@@ -61,7 +61,7 @@ Two weeks later, I implemented Meike Berben's advice in a lesson, as highlighted
 
 I observed that most students achieved the required 5 points in the main activity, with many earning all available points. This confirmed that Meike's advice was effective. This lesson example demonstrates how I adjusted my lesson designs to incorporate more differentiation. Feedback from my mentor, Nadia, further highlights my progress in developing this teaching approach in practice (see feedback, picture 21)
 
-**Picture 21: Screenshot of feedback from my mentor, Nadia Pineau on implementation of differentiation:**
+**Picture 23: Screenshot of feedback from my mentor, Nadia Pineau on implementation of differentiation:**
 
 ![Screenshot (241)](https://github.com/user-attachments/assets/4f970f93-484b-4b95-b362-b69dcf129b26)
 
@@ -85,7 +85,7 @@ I began incorporating short reflections after each lesson, noting what worked we
  
 Additionally, I presented the checklist to a colleague for feedback. The colleague offered positive comments and suggested adding a row for "having control over the learning environment" and rephrasing certain elements for clarity (see feedback). I made these adjustments, further refining the checklist to better serve its purpose.
 
-**Picture 22: Screenshot of feedback from my colleague, Nicolas Joel, on lesson analysis tool:**
+**Picture 24: Screenshot of feedback from my colleague, Nicolas Joel, on lesson analysis tool:**
 
  ![Bild12](https://github.com/user-attachments/assets/131d3bd7-1d52-4d84-b419-e0205a79686f)
 
