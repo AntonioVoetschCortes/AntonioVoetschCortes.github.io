@@ -2,7 +2,7 @@
 Below is a compilation of video excerpts showcasing various educational scenarios during my internships:
 
 ## 1. English Lesson at Kolegio Alejandro Paula, Curacao
-This video demonstrates my proficiency in guiding MFL learning progressions and organizing effective educational activities, crucial aspects of methodology. It highlights my ability to engage students and create a welcoming learning environment, underscoring my strengths as an educator. Additionally, it illustrates my commitment to promoting plurilingualism, emphasizing that teaching English involves more than language mastery. Throughout, I maintain professional conduct.
+This video demonstrates my proficiency in guiding MFL learning progressions and organizing effective educational activities, crucial aspects of methodology. It highlights my ability to engage students and create a welcoming learning environment, underscoring my strengths as an pedagogue. Additionally, it illustrates my commitment to promoting plurilingualism, emphasizing that teaching English involves more than language mastery. Throughout, I maintain professional conduct.
 
 <a href="https://youtu.be/yhIkiQ8aWm0" target="_blank">https://youtu.be/yhIkiQ8aWm0</a> 
 
