@@ -25,3 +25,8 @@ This video highlights my ability to effectively manage classroom dynamics and ma
 This video showcases my commitment to school engagement by participating in extracurricular activities. It underscores my professionalism and ability to integrate into diverse cultural and international settings, as evidenced by my collaboration with colleagues to ensure successful participation in the musical event.
 
 <a href="https://youtube.com/shorts/CADv07h8P_8?feature=share" target="_blank">https://youtube.com/shorts/CADv07h8P_8?feature=share</a> 
+
+## 6. Conducting research at school
+This video captures a lesson segment where I guide students through downloading Quizlet. I introduce the digital tool as an important part of a research project aimed at enhancing vocabulary acquisition. By involving my students in this process, the video serves as evidence of my professional practice and my capacity to leverage research for improving MFL education.
+
+<a href="https://youtu.be/hY7hzv03Mzg" target="_blank">https://youtu.be/hY7hzv03Mzg</a> 
