@@ -101,7 +101,7 @@ The situation was that I needed to teach my second-year French class at Vathorst
 
 The result was a productive grammar lesson that successfully introduced students to different adjective forms. Feedback from my colleague (see feedback, picture 13), who observed the lesson, indicated that I could explain the subject matter clearly and that I made significant efforts to ensure that all students understood the material. 
 
-**Picture 13: Feedback received from my colleague on the lesson**
+**Picture 13: Feedback received from my colleague at Vathorst College, Jean van Vuuren, on the lesson**
 
 ![Screenshot (404)](https://github.com/user-attachments/assets/2a63e9fc-b41c-4c67-ba1c-73b48b582165)
 
