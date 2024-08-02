@@ -45,7 +45,7 @@ As the screenshot below indicates, the research resulted in a satisfactory grade
 I am pleased with my performance and the research outcomes. The project was conducted professionally, with considerable effort invested in literature review and data collection. I critically examined my options, ensuring logical and coherent steps that led to meaningful conclusions. Through this research, I gained a deeper understanding of vocabulary development and the critical factors a language teacher should consider in a beginner class. While some subquestions could have been more specific, and some sources were outdated, the overall success of the research demonstrated my capability to contribute to educational development. The experience also highlighted areas for improvement, such as ensuring accurate translations, making more subject-specific conclusions, and justifying the use of digital tools more robustly. Despite these areas for growth, the research confirmed my ability to engage in practice-based research and apply new knowledge effectively. This aligns with the requirements within the professional competency for teachers to advance their field through informed, research-based practices.
  
 ### Source
-Wilson, E. (Ed.) (2017). School-based Research. A guide for education students (3rd ed.). London: SAGE.
+- Wilson, E. (Ed.) (2017). School-based Research. A guide for education students (3rd ed.). London: SAGE.
 
 ## ABCD-Reflection: Participation in open day
 **A: What Happened?**
