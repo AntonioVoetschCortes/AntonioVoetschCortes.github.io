@@ -58,7 +58,7 @@ For an open day at Vathorst College Amersfoort, the French department was tasked
 
 Participating in this open day was not mandatory, but I chose to contribute to demonstrate my commitment to collaborating with my colleagues and supporting school events. Engaging in such educational tasks can significantly enhance a teacher’s professional development by developing new skills, gaining leadership experience, and broadening perspectives, which in turn, can make them more effective educators (Coladarci, 1992). Additionally, participating in team or department meetings facilitates collaboration, allowing colleagues to share ideas and suggestions for improving the school’s curriculum and activities (Conley, 1991). Moreover, involvement in school activities fosters a welcoming environment conducive to successful learning (Barret, Davies, Zhang, and Barret, 2015). My colleagues appreciated my collaboration and expressed their gratitude, highlighting my contributions to department meetings and overall engagement (see feedback below).
 
-**Picture 32, screenshot of feedback from my colleagues at Vathorst College, Nicolas Joel and Amandine Coutard, and my mentor Nadia Pineau on my professional engagement at school:**
+**Picture 32: screenshot of feedback from my colleagues at Vathorst College, Nicolas Joel and Amandine Coutard, and my mentor Nadia Pineau on my professional engagement at school:**
 ![Screenshot (433)](https://github.com/user-attachments/assets/e608c76d-59dd-4192-adc8-d23428a2025b)
 
 **C: What Conclusions Can You Draw from the Event?**
