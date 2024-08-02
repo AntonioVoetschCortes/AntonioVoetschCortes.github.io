@@ -31,7 +31,7 @@ In alignment with research findings from Harvard University (n.d.) and the Briti
 
 The lesson concluded with high engagement levels and evident motivation among students to improve their French communication skills. Feedback from both my mentor and students was overwhelmingly positive. My mentor praised my ability to make the subject engaging and relevant, contributing to effective learning outcomes. The following feedback received from my mentor (marked in yellow) confirms my enthusiasm for the subject French:  
 
-**Picture 1:** Screenshot Feedback Mentor Nadia Pineau
+**Picture 1: Screenshot of feedback from my French teacher at Vathorst College, Mentor Nadia Pineau:**
 ![Screenshot (402)](https://github.com/user-attachments/assets/143599a0-956f-4e9f-9601-186e41301328)
 
 **Reflection:**
