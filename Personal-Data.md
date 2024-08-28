@@ -10,15 +10,15 @@
 - **Name of last internship school:** Kolegio Alejandro Paula, Willemstad, Curaçao
 
 ## Proof of admissibility:  
-**NOT COMPLETE YET**
 
 [Propadeuse English.pdf](https://github.com/user-attachments/files/16466670/Propadeuse.English.pdf)
 
 [Propadeuse French.pdf](https://github.com/user-attachments/files/16466675/Propadeuse.French.pdf)
 
-[Study progress English.pdf](https://github.com/user-attachments/files/16466641/Study.progress.English.pdf)
+[Study progress English.pdf](https://github.com/user-attachments/files/16781342/Study.progress.English.pdf)
 
-[Study progress French.pdf](https://github.com/user-attachments/files/16466667/Study.progress.French.pdf)
+[Study progress French.pdf](https://github.com/user-attachments/files/16781344/Study.progress.French.pdf)
+
 
 
 ## Statement of authenticity:
